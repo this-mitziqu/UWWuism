@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Wuism
 
-You can use the [editor on GitHub](https://github.com/zyh3838438zyh/UWWuism/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the homepage for Wuism. Wuism is a philosophy developped by Alexander von Wu the Great at the University of Washington. It incorporates widely from folk scientist and internet philosopher, like Bo Zeng, Yin Li, Yin Wang, Strongart, and Singleman XIII. Welcome to contribute to this page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zyh3838438zyh/UWWuism/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+这是武学的主页。武学是由武冠轩大佐首先发明于中国邮电大学西雅图分校的一门哲学。武学广泛地吸收了互联网上的糟粕，如曾勃，李吟，王垠，于志成，和独人十三。欢迎贡献本主页。
